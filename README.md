@@ -1,3 +1,26 @@
 
 
 https://mapi.alipay.com/gateway.do?_input_charset=utf-8&agreement_sign_parameters=%7B%22productCode%22%3A%22GENERAL_WITHHOLDING_P%22%2C%22notifyUrl%22%3A%22https%3A%2F%2Fgateway.youku.com%2Fbank%2Falipay_quick_pay%2Fsign_back_notify.htm%22%2C%22scene%22%3A%22INDUSTRY%7CDIGITAL_MEDIA%22%2C%22externalAgreementNo%22%3A%22202004091303KJ244786%22%7D&integration_type=ALIAPP&notify_url=https%3A%2F%2Fgateway.youku.com%2Fbank%2Falipay_quick_pay%2Fquick_pay_back_notify.htm&out_trade_no=20200409P3285879459&partner=2088811353295436&product_code=GENERAL_WITHHOLDING&promo_params=%7B%22heyi_promo%22%3A%22N%22%7D&return_url=http%3A%2F%2Fgateway.youku.com%2Fbank%2Falipay_quick_pay%2Fquick_pay_front_notify.htm&service=alipay.acquire.page.createandpay&subject=%E8%BF%9E%E7%BB%AD%E5%8C%85%E6%9C%88VIP&total_fee=15.00&sign=ff26bfe2e2a8a8164dfa2f6fd032d754&sign_type=MD5
+
+
+
+
+
+
+https://mapi.alipay.com/gateway.do?agreement_sign_parameters=%7B%22productCode%22%3A%22GENERAL_WITHHOLDING_P%22%2C%22externalUserId%22%3A%22zxpreuser%22%2C%22notifyUrl%22%3A%22http%3A%2F%2Fxuexuan.inc.alipay.net%2Fhome%2Faop%2Fnotify%2Fself%3Fresult%3Dsuccess%22%2C%22externalAgreementNo%22%3A%22040903%22%2C%22scene%22%3A%22INDUSTRY%7CCARRENTAL%22%7D&subject=1.0%E6%94%AF%E4%BB%98%E5%90%8E%E7%AD%BE%E7%BA%A6subject&_input_charset=UTF-8&notify_url=http%3A%2F%2Fxuexuan.inc.alipay.net%2Fhome%2Faop%2Fnotify%2Fself%3Fresult%3Dsuccess&body=1.0%E6%94%AF%E4%BB%98%E5%90%8E%E7%AD%BE%E7%BA%A6body&product_code=GENERAL_WITHHOLDING&integration_type=ALIAPP&out_trade_no=trade040903&partner=2088721240806806&service=alipay.acquire.page.createandpay&total_fee=0.01&return_url=https%3A%2F%2Fwww.baidu.com%2F&currency=RMB&seller_id=2088721240806806&sign=43582e07011caa50e2073e23840542cc&sign_type=MD5
+
+
+
+https://openapi.alipay.com/gateway.do?biz_content=%7B%22agreement_sign_params%22%3A%7B%22external_agreement_no%22%3A%22040902%22%2C%22external_logon_id%22%3A%22external_user%22%2C%22personal_product_code%22%3A%22GENERAL_WITHHOLDING_P%22%2C%22sign_scene%22%3A%22INDUSTRY%7CCARRENTAL%22%2C%22third_party_type%22%3A%22PARTNER%22%7D%2C%22body%22%3A%22%E9%A2%84%E5%8F%91%E6%B5%8B%E8%AF%95body%22%2C%22goods_type%22%3A%220%22%2C%22integration_type%22%3A%22ALIAPP%22%2C%22out_trade_no%22%3A%22tradeno040902%22%2C%22product_code%22%3A%22GENERAL_WITHHOLDING%22%2C%22promo_params%22%3A%7B%22storeIdType%22%3A%221%22%7D%2C%22request_from_url%22%3A%22didipasnger%3A%2F%2F%22%2C%22subject%22%3A%222.0%E9%A2%84%E5%8F%91%E6%B5%8B%E8%AF%95ing%22%2C%22timeout_express%22%3A%2290m%22%2C%22total_amount%22%3A0.01%7D&sign=IC26oIsjWHs72eiEqrfqioLCiBcmxXwtda6uFTuZam7ychFDg3QorDKarezSFWlfq10Ham2Zhck2kWDAbbNdVvak8ULL9q0Pt96AV7HVLoPnI0I7cQigYNM9%2BBYUIYe%2FS9pQf44HA4emf8Y30UdaP0Pn49s0Vg5qAn%2BtLhcfCaQ%3D&timestamp=2020-04-09+19%3A54%3A30&sign_type=RSA&notify_url=http%3A%2F%2Fxuexuan.inc.alipay.net%2Fhome%2Faop%2Fnotify%2Fself%3Fresult%3Dsuccess&charset=UTF-8&app_id=2017060807451366&method=alipay.trade.page.pay&return_url=https%3A%2F%2Fwww.baidu.com%2F&version=1.0
+
+
+
+=================================================
+
+
+
+https://unitradeprod.alipay.com/gateway.do?agreement_sign_parameters=%7B%22productCode%22%3A%22GENERAL_WITHHOLDING_P%22%2C%22externalUserId%22%3A%22zxpreuser%22%2C%22notifyUrl%22%3A%22http%3A%2F%2Fxuexuan.inc.alipay.net%2Fhome%2Faop%2Fnotify%2Fself%3Fresult%3Dsuccess%22%2C%22externalAgreementNo%22%3A%22040903%22%2C%22scene%22%3A%22INDUSTRY%7CCARRENTAL%22%7D&subject=1.0%E6%94%AF%E4%BB%98%E5%90%8E%E7%AD%BE%E7%BA%A6subject&_input_charset=UTF-8&notify_url=http%3A%2F%2Fxuexuan.inc.alipay.net%2Fhome%2Faop%2Fnotify%2Fself%3Fresult%3Dsuccess&body=1.0%E6%94%AF%E4%BB%98%E5%90%8E%E7%AD%BE%E7%BA%A6body&product_code=GENERAL_WITHHOLDING&integration_type=ALIAPP&out_trade_no=trade040903&partner=2088721240806806&service=alipay.acquire.page.createandpay&total_fee=0.01&return_url=https%3A%2F%2Fwww.baidu.com%2F&currency=RMB&seller_id=2088721240806806&sign=43582e07011caa50e2073e23840542cc&sign_type=MD5
+
+
+
+https://unitradeprod.alipay.com/gateway.do?biz_content=%7B%22agreement_sign_params%22%3A%7B%22external_agreement_no%22%3A%22040902%22%2C%22external_logon_id%22%3A%22external_user%22%2C%22personal_product_code%22%3A%22GENERAL_WITHHOLDING_P%22%2C%22sign_scene%22%3A%22INDUSTRY%7CCARRENTAL%22%2C%22third_party_type%22%3A%22PARTNER%22%7D%2C%22body%22%3A%22%E9%A2%84%E5%8F%91%E6%B5%8B%E8%AF%95body%22%2C%22goods_type%22%3A%220%22%2C%22integration_type%22%3A%22ALIAPP%22%2C%22out_trade_no%22%3A%22tradeno040902%22%2C%22product_code%22%3A%22GENERAL_WITHHOLDING%22%2C%22promo_params%22%3A%7B%22storeIdType%22%3A%221%22%7D%2C%22request_from_url%22%3A%22didipasnger%3A%2F%2F%22%2C%22subject%22%3A%222.0%E9%A2%84%E5%8F%91%E6%B5%8B%E8%AF%95ing%22%2C%22timeout_express%22%3A%2290m%22%2C%22total_amount%22%3A0.01%7D&sign=IC26oIsjWHs72eiEqrfqioLCiBcmxXwtda6uFTuZam7ychFDg3QorDKarezSFWlfq10Ham2Zhck2kWDAbbNdVvak8ULL9q0Pt96AV7HVLoPnI0I7cQigYNM9%2BBYUIYe%2FS9pQf44HA4emf8Y30UdaP0Pn49s0Vg5qAn%2BtLhcfCaQ%3D&timestamp=2020-04-09+19%3A54%3A30&sign_type=RSA&notify_url=http%3A%2F%2Fxuexuan.inc.alipay.net%2Fhome%2Faop%2Fnotify%2Fself%3Fresult%3Dsuccess&charset=UTF-8&app_id=2017060807451366&method=alipay.trade.page.pay&return_url=https%3A%2F%2Fwww.baidu.com%2F&version=1.0
